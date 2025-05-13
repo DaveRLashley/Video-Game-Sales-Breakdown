@@ -33,7 +33,18 @@ Cleaned to remove missing years/publishers and future anomalies.
 - Filter by year, genre, platform, or publisher to explore the data
 
 ## 📷 Screenshots
-_(Add visuals or dashboard snapshots here)_
+
+### 🔹 Final Dashboard Overview
+![Dashboard Overview](images/dashboard_overview.png)
+
+### 🔹 Global Sales by Genre
+![Global Sales by Genre](images/global_sales_by_genre.png)
+
+### 🔹 Platform Sales
+![Platform Sales](images/sales_by_platform.png)
+
+### 🔹 Regional Sales Breakdown
+![Regional Sales](images/regional_sales_breakdown.png)
 
 ## 🧼 Data Cleaning Summary
 - Removed rows with missing `Year` or `Publisher`
