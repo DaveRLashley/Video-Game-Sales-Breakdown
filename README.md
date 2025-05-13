@@ -29,7 +29,7 @@ Cleaned to remove missing years/publishers and future anomalies.
 
 ## 📌 How to Use
 - Clone or download this repo
-- Open `vgsales_dashboard.twbx` in Tableau Desktop
+- Open `vgsales_dashboard.twb` in Tableau Desktop
 - Filter by year, genre, platform, or publisher to explore the data
 
 ## 📷 Screenshots
