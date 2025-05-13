@@ -9,7 +9,7 @@ This folder contains image assets used to showcase the visuals created in Tablea
 - **regional_sales.png** – Stacked bar chart comparing regional sales (NA, EU, JP, Other)
 - **dashboard_overview.png** – Full snapshot of the final dashboard layout in Tableau
 - **sales_over_time.png**- Line chart of total global sales from 1980 to 2020
-- **publisher_performance**- Pie chart of total global sales for top 10 publishers
+- **publisher_performance.png**- Pie chart of total global sales for top 10 publishers
 
 ## Purpose
 
