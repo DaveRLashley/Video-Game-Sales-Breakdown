@@ -41,10 +41,10 @@ Cleaned to remove missing years/publishers and future anomalies.
 ![Global Sales by Genre](images/global_sales_by_genre.png)
 
 ### 🔹 Platform Sales
-![Platform Sales](images/sales_by_platform.png)
+![Platform Sales](images/platform_sales.png)
 
 ### 🔹 Regional Sales Breakdown
-![Regional Sales](images/regional_sales_breakdown.png)
+![Regional Sales](images/regional_sales.png)
 
 ## 🧼 Data Cleaning Summary
 - Removed rows with missing `Year` or `Publisher`
